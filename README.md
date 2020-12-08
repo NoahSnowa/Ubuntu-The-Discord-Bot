@@ -1,4 +1,4 @@
-<h1 align="center">Ubuntu-The-Discord-Bot</h1?
+<h1 align="center">Ubuntu-The-Discord-Bot</h1>
   
 A small fun Discord bot written in Python based on one of the best Linux's, Ubuntu!
 
