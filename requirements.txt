@@ -1,0 +1,4 @@
+# Requirements file for "Ubuntu-The-Discord-Bot"
+# All things must be installed for the bot to run unless you want to be editing source code!
+discord
+jishaku
